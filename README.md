@@ -4,7 +4,7 @@
 This project performs sentiment analysis on the IMDB movie review dataset using Natural Language Processing (NLP) techniques and the Naive Bayes classification algorithm. The dataset contains movie reviews labeled as either "positive" or "negative." The goal is to train a model to classify sentiment based on the text of the reviews.
 
 ## Dataset
-The dataset used in this project is the **IMDB Dataset.csv**, which contains:
+The dataset used in this project is the **IMDB Dataset (https://ai.stanford.edu/~amaas/data/sentiment), which contains:
 - `Review`: The text of the movie review.
 - `Sentiment`: The sentiment label (either "positive" or "negative").
 
